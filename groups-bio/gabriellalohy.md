@@ -9,9 +9,6 @@ My name is `Gabriella Brigitte LOHY`. Born in `Jakarta, Indonesia` on **1989**.
 My education background is `tourism`. I love traveling that's why I studied
 tourism and made a living from that.
 
-The reason I came to Belgium is because I'm in love with a handsome Belgian
-(`classic` :smile:)
-
 ### WHY LEARNING CODING?
 
 #### FIRST LOVE
@@ -132,14 +129,6 @@ For example:
 ```html
 <b>BALI-LOMBOK TOUR 9D/8N by GARUDA INDONESIA</b>
 ```
-
-## CLOSING
-
-I can't predict future but the only thing I know is I am fast learner and a hard
-worker. If by chance I get the oppurtunity to join this `hack your future`
-program I will study really hard and make a best effort.
-
-**Thank you for your time reviewing my assignment! Have a good day!**
 
 ![alt text](https://picsum.photos/id/1/200/300)
 
