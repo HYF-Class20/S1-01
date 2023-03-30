@@ -22,15 +22,12 @@ set our minds to.
 
 The following members are part of our team:
 
-<<<<<<< HEAD
-
 - [Saida](https://github.com/HYF-Class20/workflows-group1-intro/blob/saidakf/groups-bio/saidabio/saidabio.md)
 - [Gabriella](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/gabriellalohy.md)
 - [Emran](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/info/emran.md)
 - [JeanPaul](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/jeanpaul.md)
 - [Tesfalem](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio)
-
-  > > > > > > > 8932f78 (ReadMe updated README.md)
+- [Starry](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/starry/starry.md)
 
 ## Technologies Used
 
