@@ -21,4 +21,8 @@ interests, including music, travel, reading, food, and painting.
 Thank you for taking the time to get to know me a little better. I look forward
 to connecting with all of you!
 
+<<<<<<< HEAD
 ![Picture](./groups-bio/saidabio/img/saida.jpg)
+=======
+![Image](./info/img/IMG_1006.jpg)
+>>>>>>> fee2d86 (Update saidabio.md)
