@@ -22,7 +22,11 @@ Thank you for taking the time to get to know me a little better. I look forward
 to connecting with all of you!
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![Picture](./groups-bio/saidabio/img/saida.jpg)
 =======
 ![Image](./info/img/IMG_1006.jpg)
 >>>>>>> fee2d86 (Update saidabio.md)
+=======
+![Image](./groups-bio/img/IMG_1006.jpg)
+>>>>>>> bb574db (Update saidabio.md)
