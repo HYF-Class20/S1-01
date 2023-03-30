@@ -26,7 +26,7 @@ The following members are part of our team:
 - [Gabriella](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/gabriellalohy.md)
 - [Emran](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/info/emran.md)
 - [JeanPaul](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/jeanpaul.md)
-- [Tesfalem] 
+- [Tesfalem](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio)
 - [Starry](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/starry/starry.md)
 
 ## Technologies Used
