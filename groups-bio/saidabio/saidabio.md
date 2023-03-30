@@ -20,4 +20,3 @@ interests, including music, travel, reading, food, and painting.
 
 Thank you for taking the time to get to know me a little better. I look forward
 to connecting with all of you!
-
