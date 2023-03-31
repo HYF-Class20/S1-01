@@ -13,7 +13,4 @@ big fan of hiking and spending time in nature.
 I'm looking forward to getting to know all of you and collaborating on exciting
 projects together!
 
-<<<<<<< HEAD:Biography/emran.md ![my picture](/biography/img/emran.JPG) =======
 ![my picture](/biography/img/emran.jpg)
-
-> > > > > > > master:biography/emran.md
