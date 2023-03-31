@@ -2,43 +2,56 @@
 
 ## Introduction
 
-Welcome to the repository of Group 1. This project is a collaboration effort of
-Group 1 for the Hack Your Future program.
+Welcome to the repository of Group 1, a collaborative effort for the Hack Your
+Future program. Our team comprises of aspiring web developers who are dedicated
+to mastering the skills required to build exceptional web applications and
+create a positive impact in the world.
 
-Our group is on an exciting journey to become web developers through the Hack
-Your Future program. We are a team of enthusiastic learners who support each
-other in our quest to learn new technologies and foundational concepts.
-
-Together, we are determined to master the skills needed to build amazing web
-applications and make a difference in the world. We take on various challenging
-projects and assignments, pushing ourselves beyond our comfort zones to become
-better developers each day.
-
-We believe that the road to becoming a web developer is not easy, but with
-dedication, perseverance, and a supportive community, we can achieve anything we
-set our minds to.
+We firmly believe that the journey to becoming a web developer requires
+dedication, perseverance, and a supportive community, and we are committed to
+pushing ourselves beyond our limits to achieve our goals. As a team, we take on
+challenging projects and assignments, constantly striving to improve our
+knowledge and skills.
 
 ## Team Members
 
-The following members are part of our team:
+Our team consists of the following members:
 
-- [Saida](https://github.com/HYF-Class20/workflows-group1-intro/blob/saidakf/groups-bio/saidabio/saidabio.md)
-- [Gabriella](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/gabriellalohy.md)
-- [Emran](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/info/emran.md)
-- [JeanPaul](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/jeanpaul.md)
-- [Tesfalem]
-- [Starry](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/starry/starry.md)
+| Name          | Age | Location | Photo                                      |
+| ------------- | --- | -------- | ------------------------------------------ |
+| Emran Hamdard | 19  | Antwerp  | ![my picture](/biography/img/emran.jpg)    |
+| Gabriellaloy  | 25  | Antwerp  | ![my picture](/biography/img/web_dev.jpg)  |
+| Saida         | 27  | Antwerp  | ![my picture](/biography/img/saida.jpg)    |
+| Jeanpaul      | 28  | Antwerp  | ![my picture](/biography/img/jeanpaul.jpg) |
+| Tesfalem      | 25  | Antwerp  | ![my picture](/biography/img/web_dev.jpg)  |
+| Starry        | 25  | Antwerp  | ![my picture](/biography/img/web_dev.jpg)  |
+
+## GitLab Accounts
+
+You can find each team member's GitLab account below:
+
+## GitLab Accounts
+
+| Name          | GitLab Account                                                                    |
+| ------------- | --------------------------------------------------------------------------------- |
+| Emran Hamdard | [emran-hamdard](https://github.com/emran-ai?tab=repositories)                     |
+| Gabriellaloy  | [gabriellaloy](https://github.com/HYF-Class20/workflows-group1-intro/tree/master) |
+| Saida         | [SaidaKF](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)      |
+| Jeanpaul      | [jeanpaul](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)     |
+| Tesfalem      | [Tesfalem](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)     |
+| Starry        | [starry](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)       |
 
 ## Technologies Used
 
-We are using [VScode] as our code editor and [GitHub] as our version control
+We are utilizing [VScode] as our code editor and [GitHub] as our version control
 system.
 
 ## What We Have Learned So Far
 
-Through the Hack Your Future program, we have gained invaluable knowledge in web
-development technologies such GitHub, Git, VsCode, Node.js, and more. We have
-also learned best practices in code quality and continuous integration.
+Through the Hack Your Future program, we have gained extensive knowledge in
+various web development technologies such as Git, GitHub, Node.js, and more. We
+have also acquired an understanding of best practices for code quality and
+continuous integration.
 
 ## Code Quality Checks
 
@@ -79,12 +92,12 @@ branches to be up to date before merging.
 
 ## Contributions
 
-We welcome contributions from the community. If you find any issues or want to
-add new features, feel free to create a pull request.
+We welcome contributions from the community and encourage anyone interested in
+contributing to our project to create a pull request. We would like to express
+our gratitude to our Coaches for their guidance and support throughout the
+development of this project
 
 ## Acknowledgements
 
 We would like to thank our Coaches for their help and support during the
 development of this project.
-
-![photo of web developer](./biography/img/web_dev.jpg)
