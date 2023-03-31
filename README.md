@@ -34,12 +34,12 @@ You can find each team member's GitLab account below:
 
 | Name          | GitLab Account                                                                    |
 | ------------- | --------------------------------------------------------------------------------- |
-| Emran Hamdard | [emran-hamdard](https://github.com/emran-ai?tab=repositories)                     |
+| Emran Hamdard | [emran-ai](https://github.com/emran-ai?tab=repositories)                          |
 | Gabriellaloy  | [gabriellaloy](https://github.com/HYF-Class20/workflows-group1-intro/tree/master) |
 | Saida         | [SaidaKF](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)      |
-| Jeanpaul      | [jeanpaul](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)     |
-| Tesfalem      | [Tesfalem](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)     |
-| Starry        | [starry](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)       |
+| Jeanpaul      | [jean-paul](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)    |
+| Tesfalem      | [Tesfalemm](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)    |
+| Starry        | [starrry](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)      |
 
 ## Technologies Used
 
