@@ -21,9 +21,6 @@ set our minds to.
 ## Team Members
 
 The following members are part of our team:
-
-<<<<<<< HEAD
-
 - [Saida](https://github.com/HYF-Class20/workflows-group1-intro/blob/saidakf/groups-bio/saidabio/saidabio.md)
 - [Gabriella](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/gabriellalohy.md)
 - [Emran](https://github.com/HYF-Class20/workflows-group1-intro/blob/master/groups-bio/info/emran.md)
@@ -89,4 +86,4 @@ add new features, feel free to create a pull request.
 We would like to thank our Coaches for their help and support during the
 development of this project.
 
-![Image](./groups-bio/img/web_dev.jpg)
+![Image](./biography/img/web_dev.jpg)
