@@ -13,4 +13,4 @@ big fan of hiking and spending time in nature.
 I'm looking forward to getting to know all of you and collaborating on exciting
 projects together!
 
-![my picture](/groups-bio/img/emran.JPG)
+![my picture](/biography/img/emran.JPG)
