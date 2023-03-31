@@ -2,7 +2,7 @@
 
 ## **Personal information**
 
-![JP photo](/home/hyf/Desktop/Hyf/S1-01/JeanPaul/img/IMG-5780.jpg)
+![JP photo](/Biography/img/IMG-5780.jpg)
 
 > _My name is Jean Paul IRADUKUNDA,I am 29 years old,I am from Rwanda and I live
 > in Bornem/Antwerp._
