@@ -86,3 +86,5 @@ development of this project
 
 We would like to thank our Coaches for their help and support during the
 development of this project.
+
+![Dev Img](/biography/img/web_dev.jpg)
