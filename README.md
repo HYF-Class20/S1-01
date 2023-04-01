@@ -15,31 +15,16 @@ knowledge and skills.
 
 ## Team Members
 
-Our team consists of the following members:
+Our team comprises the following members, each with a GitLab account:
 
-| Name          | Age | Location | Photo                                      |
-| ------------- | --- | -------- | ------------------------------------------ |
-| Emran Hamdard | 19  | Antwerp  | ![my picture](/biography/img/emran.JPG)    |
-| Gabriellaloy  | 25  | Antwerp  | ![my picture](/biography/img/web_dev.jpg)  |
-| Saida         | 27  | Antwerp  | ![my picture](/biography/img/saida.jpg)    |
-| Jeanpaul      | 28  | Antwerp  | ![my picture](/biography/img/jeanpaul.jpg) |
-| Tesfalem      | 25  | Antwerp  | ![my picture](/biography/img/web_dev.jpg)  |
-| Starry        | 25  | Antwerp  | ![my picture](/biography/img/web_dev.jpg)  |
-
-## GitLab Accounts
-
-You can find each team member's GitLab account below:
-
-## GitLab Accounts
-
-| Name          | GitLab Account                                                                    |
-| ------------- | --------------------------------------------------------------------------------- |
-| Emran Hamdard | [emran-ai](https://github.com/emran-ai?tab=repositories)                          |
-| Gabriellaloy  | [gabriellaloy](https://github.com/HYF-Class20/workflows-group1-intro/tree/master) |
-| Saida         | [SaidaKF](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)      |
-| Jeanpaul      | [jean-paul](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)    |
-| Tesfalem      | [Tesfalemm](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)    |
-| Starry        | [starrry](https://github.com/HYF-Class20/workflows-group1-intro/tree/master)      |
+| Name          | GitLab Account                                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Emran Hamdard | [emran-ai](https://github.com/HYF-Class20/workflows-group1-intro/blob/emran/biography/emran.md)                     |
+| Gabriellaloy  | [gabriellaloy](https://github.com/HYF-Class20/workflows-group1-intro/blob/gabriellalohy/biography/gabriellalohy.md) |
+| Saida         | [SaidaKF](https://github.com/HYF-Class20/workflows-group1-intro/blob/saidakf/groups-bio/saidabio/saidabio.md)       |
+| Jeanpaul      | [jean-paul](https://github.com/HYF-Class20/workflows-group1-intro/blob/jeanpaul/biography/jeanpaul.md)              |
+| Tesfalem      | [Tesfalemm](https://github.com/HYF-Class20/workflows-group1-intro/tree/tesfatsi)                                    |
+| Starry        | [starrry](https://github.com/HYF-Class20/workflows-group1-intro/blob/Starry/starry/starry.md)                       |
 
 ## Technologies Used
 
